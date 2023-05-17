@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Kavoon&family=Roboto:wght@900&display=swap');
+
+*{  text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tudo{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+
+.menut nav{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+   
+
+}
+
+.menut nav li{
+    padding: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    color: black;
+   
+}
+
+.menus img{
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
